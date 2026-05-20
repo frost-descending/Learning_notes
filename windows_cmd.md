@@ -5,7 +5,7 @@
 | 命令 | 功能说明 | 示例 |
 |------|----------|------|
 | `dir` | 列出当前目录下的文件和子目录 | `dir` |
-| `cd` | 切换目录 | `cd C:\Windows`<br>`cd ..` 返回上级目录 |
+| `cd` | 切换目录 | `cd C:\Windows`<br>`cd ..` 返回上级目录 如: cd /D D:\python_code | 
 | `mkdir` / `md` | 创建新目录 | `mkdir myFolder` |
 | `rmdir` / `rd` | 删除空目录 | `rmdir myFolder` |
 | `del` / `erase` | 删除文件 | `del file.txt` |
@@ -15,6 +15,7 @@
 | `ren` / `rename` | 重命名文件或目录 | `ren old.txt new.txt` |
 | `type` | 显示文本文件内容 | `type readme.txt` |
 | `find` | 在文件中搜索字符串 | `find "hello" file.txt` |
+
 
 ## 二、系统信息与管理
 
